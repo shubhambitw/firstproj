@@ -1,2 +1,2 @@
-# firstproj
+# firstgitproj
 this is my first repo.....
